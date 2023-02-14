@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    flex: 1
+}
+
+textarea {
+    flex: 1;}
+    
+.inline {
+    display: inline;
+}
